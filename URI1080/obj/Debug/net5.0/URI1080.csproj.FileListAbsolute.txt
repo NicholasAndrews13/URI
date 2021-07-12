@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\URI1080\bin\Debug\net5.0\URI1080.exe
+C:\Users\Aluno\Desktop\URI1080\bin\Debug\net5.0\URI1080.deps.json
+C:\Users\Aluno\Desktop\URI1080\bin\Debug\net5.0\URI1080.runtimeconfig.json
+C:\Users\Aluno\Desktop\URI1080\bin\Debug\net5.0\URI1080.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\URI1080\bin\Debug\net5.0\URI1080.dll
+C:\Users\Aluno\Desktop\URI1080\bin\Debug\net5.0\ref\URI1080.dll
+C:\Users\Aluno\Desktop\URI1080\bin\Debug\net5.0\URI1080.pdb
+C:\Users\Aluno\Desktop\URI1080\obj\Debug\net5.0\URI1080.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\URI1080\obj\Debug\net5.0\URI1080.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\URI1080\obj\Debug\net5.0\URI1080.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\URI1080\obj\Debug\net5.0\URI1080.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\URI1080\obj\Debug\net5.0\URI1080.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\URI1080\obj\Debug\net5.0\URI1080.dll
+C:\Users\Aluno\Desktop\URI1080\obj\Debug\net5.0\ref\URI1080.dll
+C:\Users\Aluno\Desktop\URI1080\obj\Debug\net5.0\URI1080.pdb
+C:\Users\Aluno\Desktop\URI1080\obj\Debug\net5.0\URI1080.genruntimeconfig.cache

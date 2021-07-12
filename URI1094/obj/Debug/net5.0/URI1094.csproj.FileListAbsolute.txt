@@ -1,0 +1,16 @@
+C:\Users\Aluno\Desktop\URI1094\bin\Debug\net5.0\URI1094.exe
+C:\Users\Aluno\Desktop\URI1094\bin\Debug\net5.0\URI1094.deps.json
+C:\Users\Aluno\Desktop\URI1094\bin\Debug\net5.0\URI1094.runtimeconfig.json
+C:\Users\Aluno\Desktop\URI1094\bin\Debug\net5.0\URI1094.runtimeconfig.dev.json
+C:\Users\Aluno\Desktop\URI1094\bin\Debug\net5.0\URI1094.dll
+C:\Users\Aluno\Desktop\URI1094\bin\Debug\net5.0\ref\URI1094.dll
+C:\Users\Aluno\Desktop\URI1094\bin\Debug\net5.0\URI1094.pdb
+C:\Users\Aluno\Desktop\URI1094\obj\Debug\net5.0\URI1094.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\URI1094\obj\Debug\net5.0\URI1094.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\URI1094\obj\Debug\net5.0\URI1094.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\URI1094\obj\Debug\net5.0\URI1094.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\URI1094\obj\Debug\net5.0\URI1094.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\URI1094\obj\Debug\net5.0\URI1094.dll
+C:\Users\Aluno\Desktop\URI1094\obj\Debug\net5.0\ref\URI1094.dll
+C:\Users\Aluno\Desktop\URI1094\obj\Debug\net5.0\URI1094.pdb
+C:\Users\Aluno\Desktop\URI1094\obj\Debug\net5.0\URI1094.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\nico\Desktop\uri\URI1036\bin\Debug\net5.0\URI1036.exe
+C:\Users\nico\Desktop\uri\URI1036\bin\Debug\net5.0\URI1036.deps.json
+C:\Users\nico\Desktop\uri\URI1036\bin\Debug\net5.0\URI1036.runtimeconfig.json
+C:\Users\nico\Desktop\uri\URI1036\bin\Debug\net5.0\URI1036.runtimeconfig.dev.json
+C:\Users\nico\Desktop\uri\URI1036\bin\Debug\net5.0\URI1036.dll
+C:\Users\nico\Desktop\uri\URI1036\bin\Debug\net5.0\ref\URI1036.dll
+C:\Users\nico\Desktop\uri\URI1036\bin\Debug\net5.0\URI1036.pdb
+C:\Users\nico\Desktop\uri\URI1036\obj\Debug\net5.0\URI1036.csproj.AssemblyReference.cache
+C:\Users\nico\Desktop\uri\URI1036\obj\Debug\net5.0\URI1036.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nico\Desktop\uri\URI1036\obj\Debug\net5.0\URI1036.AssemblyInfoInputs.cache
+C:\Users\nico\Desktop\uri\URI1036\obj\Debug\net5.0\URI1036.AssemblyInfo.cs
+C:\Users\nico\Desktop\uri\URI1036\obj\Debug\net5.0\URI1036.csproj.CoreCompileInputs.cache
+C:\Users\nico\Desktop\uri\URI1036\obj\Debug\net5.0\URI1036.dll
+C:\Users\nico\Desktop\uri\URI1036\obj\Debug\net5.0\ref\URI1036.dll
+C:\Users\nico\Desktop\uri\URI1036\obj\Debug\net5.0\URI1036.pdb
+C:\Users\nico\Desktop\uri\URI1036\obj\Debug\net5.0\URI1036.genruntimeconfig.cache
